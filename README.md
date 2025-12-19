@@ -1,4 +1,4 @@
-# Internship Task 1 – Python To-Do List
+# CODSOFT Internship Task 1 – To-Do List
 
 ## Description
 This project is a simple command-line based To-Do List application developed using Python as part of Internship Task 1.
